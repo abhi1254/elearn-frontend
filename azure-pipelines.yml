@@ -8,7 +8,7 @@ pool:
 
 variables:
   appName: 'elearn-frontend'
-  azureSubscription: 'appconnection'
+  azureSubscription: 'App connection'
   resourceGroup: 'betarg'
 
 steps:
